@@ -1,5 +1,5 @@
-# 💶 Détection de Faux Billets – Machine Learning (Python)
-## 📌 Description du projet
+## 💶 Détection de Faux Billets – Machine Learning (Python)
+### 📌 Description du projet
 
 Ce projet a pour objectif de développer un algorithme capable de détecter automatiquement des faux billets à partir de leurs caractéristiques géométriques.
 
